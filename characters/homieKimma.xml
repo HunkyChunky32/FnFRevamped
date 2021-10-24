@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="homieKimma.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Homie Cheer0000" x="0" y="0" width="817" height="724"/>
+	<SubTexture name="Homie Cheer0001" x="827" y="0" width="817" height="724"/>
+	<SubTexture name="Homie Cheer0002" x="1654" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0003" x="2481" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0004" x="3308" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0005" x="4135" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0006" x="4962" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0007" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0008" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0009" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0010" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0011" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0012" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0013" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0014" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0015" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0016" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0017" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0018" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0019" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Cheer0020" x="5789" y="0" width="817" height="721" frameX="0" frameY="-3" frameWidth="817" frameHeight="724"/>
+	<SubTexture name="Homie Dancing Beat0000" x="6616" y="0" width="817" height="701" frameX="0" frameY="-14" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0001" x="0" y="734" width="817" height="701" frameX="0" frameY="-14" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0002" x="827" y="734" width="817" height="699" frameX="0" frameY="-16" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0003" x="1654" y="734" width="817" height="699" frameX="0" frameY="-16" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0004" x="2481" y="734" width="817" height="702" frameX="0" frameY="-13" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0005" x="3308" y="734" width="817" height="702" frameX="0" frameY="-13" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0006" x="4135" y="734" width="817" height="704" frameX="0" frameY="-11" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0007" x="4962" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat0008" x="4962" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat0009" x="4962" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat0010" x="5789" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat0011" x="5789" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat0012" x="5789" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat0013" x="6616" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat0014" x="6616" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat0015" x="0" y="1459" width="817" height="703" frameX="0" frameY="-12" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0016" x="827" y="1459" width="817" height="703" frameX="0" frameY="-12" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0017" x="1654" y="1459" width="817" height="703" frameX="0" frameY="-12" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0018" x="2481" y="1459" width="817" height="703" frameX="0" frameY="-12" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0019" x="3308" y="1459" width="817" height="704" frameX="0" frameY="-11" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0020" x="4135" y="1459" width="817" height="704" frameX="0" frameY="-11" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0021" x="4962" y="1459" width="817" height="705" frameX="0" frameY="-10" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0022" x="5789" y="1459" width="817" height="710" frameX="0" frameY="-5" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0023" x="5789" y="1459" width="817" height="710" frameX="0" frameY="-5" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0024" x="5789" y="1459" width="817" height="710" frameX="0" frameY="-5" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0025" x="6616" y="1459" width="817" height="709" frameX="0" frameY="-6" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0026" x="6616" y="1459" width="817" height="709" frameX="0" frameY="-6" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0027" x="6616" y="1459" width="817" height="709" frameX="0" frameY="-6" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0028" x="0" y="2179" width="817" height="709" frameX="0" frameY="-6" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat0029" x="0" y="2179" width="817" height="709" frameX="0" frameY="-6" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0000" x="827" y="2179" width="817" height="702" frameX="0" frameY="-13" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0001" x="1654" y="2179" width="817" height="702" frameX="0" frameY="-13" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0002" x="2481" y="2179" width="817" height="686" frameX="0" frameY="-29" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0003" x="3308" y="2179" width="817" height="686" frameX="0" frameY="-29" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0004" x="4135" y="2179" width="817" height="674" frameX="0" frameY="-41" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0005" x="4962" y="2179" width="817" height="674" frameX="0" frameY="-41" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0006" x="5789" y="2179" width="817" height="693" frameX="0" frameY="-22" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0007" x="4962" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0008" x="4962" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0009" x="4962" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0010" x="5789" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0011" x="5789" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0012" x="5789" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0013" x="6616" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0014" x="6616" y="734" width="817" height="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0015" x="0" y="1459" width="817" height="703" frameX="0" frameY="-12" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0016" x="827" y="1459" width="817" height="703" frameX="0" frameY="-12" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0017" x="1654" y="1459" width="817" height="703" frameX="0" frameY="-12" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0018" x="2481" y="1459" width="817" height="703" frameX="0" frameY="-12" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0019" x="3308" y="1459" width="817" height="704" frameX="0" frameY="-11" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0020" x="4135" y="1459" width="817" height="704" frameX="0" frameY="-11" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0021" x="4962" y="1459" width="817" height="705" frameX="0" frameY="-10" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0022" x="5789" y="1459" width="817" height="710" frameX="0" frameY="-5" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0023" x="5789" y="1459" width="817" height="710" frameX="0" frameY="-5" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0024" x="5789" y="1459" width="817" height="710" frameX="0" frameY="-5" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0025" x="6616" y="1459" width="817" height="709" frameX="0" frameY="-6" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0026" x="6616" y="1459" width="817" height="709" frameX="0" frameY="-6" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0027" x="6616" y="1459" width="817" height="709" frameX="0" frameY="-6" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0028" x="0" y="2179" width="817" height="709" frameX="0" frameY="-6" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Dancing Beat Hair Landing0029" x="0" y="2179" width="817" height="709" frameX="0" frameY="-6" frameWidth="817" frameHeight="715"/>
+	<SubTexture name="Homie Down Note0000" x="6616" y="2179" width="817" height="698" frameX="0" frameY="-6" frameWidth="817" frameHeight="704"/>
+	<SubTexture name="Homie Down Note0001" x="0" y="2898" width="817" height="698" frameX="0" frameY="-6" frameWidth="817" frameHeight="704"/>
+	<SubTexture name="Homie Down Note0002" x="827" y="2898" width="817" height="703" frameX="0" frameY="-1" frameWidth="817" frameHeight="704"/>
+	<SubTexture name="Homie Down Note0003" x="1654" y="2898" width="817" height="703" frameX="0" frameY="-1" frameWidth="817" frameHeight="704"/>
+	<SubTexture name="Homie Down Note0004" x="2481" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0005" x="3308" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0006" x="4135" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0007" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0008" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0009" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0010" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0011" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0012" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0013" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0014" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0015" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0016" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0017" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0018" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie Down Note0019" x="4962" y="2898" width="817" height="704"/>
+	<SubTexture name="Homie FEAR 0000" x="5789" y="2898" width="817" height="707"/>
+	<SubTexture name="Homie FEAR 0001" x="6616" y="2898" width="817" height="707"/>
+	<SubTexture name="Homie FEAR 0002" x="0" y="3615" width="817" height="705" frameX="0" frameY="-2" frameWidth="817" frameHeight="707"/>
+	<SubTexture name="Homie FEAR 0003" x="827" y="3615" width="817" height="707"/>
+	<SubTexture name="Homie Right Note0000" x="1654" y="3615" width="817" height="699" frameX="0" frameY="-5" frameWidth="817" frameHeight="704"/>
+	<SubTexture name="Homie Right Note0001" x="2481" y="3615" width="817" height="699" frameX="0" frameY="-5" frameWidth="817" frameHeight="704"/>
+	<SubTexture name="Homie Right Note0002" x="3308" y="3615" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0003" x="4135" y="3615" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0004" x="4962" y="3615" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0005" x="5789" y="3615" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0006" x="6616" y="3615" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0007" x="0" y="4332" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0008" x="827" y="4332" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0009" x="827" y="4332" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0010" x="827" y="4332" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0011" x="827" y="4332" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0012" x="827" y="4332" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0013" x="827" y="4332" width="817" height="704"/>
+	<SubTexture name="Homie Right Note0014" x="827" y="4332" width="817" height="704"/>
+	<SubTexture name="Homie Up Note0000" x="1654" y="4332" width="817" height="728"/>
+	<SubTexture name="Homie Up Note0001" x="2481" y="4332" width="817" height="728"/>
+	<SubTexture name="Homie Up Note0002" x="3308" y="4332" width="817" height="728"/>
+	<SubTexture name="Homie Up Note0003" x="4135" y="4332" width="817" height="728"/>
+	<SubTexture name="Homie Up Note0004" x="4962" y="4332" width="817" height="728"/>
+	<SubTexture name="Homie Up Note0005" x="5789" y="4332" width="817" height="728"/>
+	<SubTexture name="Homie Up Note0006" x="6616" y="4332" width="817" height="728"/>
+	<SubTexture name="Homie left note0000" x="0" y="5070" width="817" height="700" frameX="0" frameY="-5" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie left note0001" x="827" y="5070" width="817" height="698" frameX="0" frameY="-7" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie left note0002" x="1654" y="5070" width="817" height="705"/>
+	<SubTexture name="Homie left note0003" x="2481" y="5070" width="817" height="705"/>
+	<SubTexture name="Homie left note0004" x="3308" y="5070" width="817" height="705"/>
+	<SubTexture name="Homie left note0005" x="4135" y="5070" width="817" height="705"/>
+	<SubTexture name="Homie left note0006" x="4962" y="5070" width="817" height="704" frameX="0" frameY="-1" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie left note0007" x="5789" y="5070" width="817" height="704" frameX="0" frameY="-1" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie left note0008" x="6616" y="5070" width="817" height="704" frameX="0" frameY="-1" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie left note0009" x="6616" y="5070" width="817" height="704" frameX="0" frameY="-1" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie left note0010" x="6616" y="5070" width="817" height="704" frameX="0" frameY="-1" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie left note0011" x="6616" y="5070" width="817" height="704" frameX="0" frameY="-1" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie left note0012" x="6616" y="5070" width="817" height="704" frameX="0" frameY="-1" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie left note0013" x="6616" y="5070" width="817" height="704" frameX="0" frameY="-1" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie left note0014" x="6616" y="5070" width="817" height="704" frameX="0" frameY="-1" frameWidth="817" frameHeight="705"/>
+	<SubTexture name="Homie sad0000" x="0" y="5785" width="817" height="701" frameX="0" frameY="-3" frameWidth="817" frameHeight="704"/>
+	<SubTexture name="Homie sad0001" x="0" y="5785" width="817" height="701" frameX="0" frameY="-3" frameWidth="817" frameHeight="704"/>
+	<SubTexture name="Homie sad0002" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0003" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0004" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0005" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0006" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0007" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0008" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0009" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0010" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0011" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0012" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0013" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0014" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0015" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0016" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0017" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0018" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0019" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0020" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0021" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0022" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0023" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0024" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0025" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0026" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0027" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0028" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0029" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0030" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0031" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0032" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0033" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0034" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0035" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0036" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0037" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0038" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0039" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0040" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0041" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0042" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0043" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0044" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0045" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0046" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0047" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0048" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0049" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0050" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0051" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0052" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0053" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0054" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0055" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0056" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0057" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0058" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0059" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0060" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0061" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0062" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0063" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0064" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0065" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0066" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0067" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0068" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0069" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0070" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0071" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0072" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0073" x="3308" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0074" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0075" x="827" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0076" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0077" x="1654" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0078" x="2481" y="5785" width="817" height="704"/>
+	<SubTexture name="Homie sad0079" x="2481" y="5785" width="817" height="704"/>
+</TextureAtlas>

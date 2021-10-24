@@ -1,0 +1,48 @@
+{
+	"storyName": "What the dog doin?",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"one-drink",
+			"FDB",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Buzzed",
+			"FDB",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blackin-Out",
+			"FDB",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"FDB",
+		"GBD",
+		""
+	],
+	"weekName": "Bitchfest"
+}

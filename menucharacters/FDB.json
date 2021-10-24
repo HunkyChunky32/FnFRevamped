@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "WS",
+	"idle_anim": "WS",
+	"position": [
+		110,
+		166
+	],
+	"scale": 0.5,
+	"image": "Menu_FDB"
+}

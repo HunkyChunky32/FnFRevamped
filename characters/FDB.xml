@@ -1,0 +1,15 @@
+<TextureAtlas imagePath="FDB.png">
+	<SubTexture name="Down 1.png" x="0" y="1432" width="511" height="547"/>
+	<SubTexture name="Down 2.png" x="513" y="1432" width="475" height="560"/>
+	<SubTexture name="Idle 1.png" x="1692" y="0" width="483" height="678"/>
+	<SubTexture name="Idle 2.png" x="2591" y="699" width="467" height="687"/>
+	<SubTexture name="Idle 3.png" x="2110" y="680" width="479" height="691"/>
+	<SubTexture name="Idle 4.png" x="625" y="0" width="499" height="693"/>
+	<SubTexture name="Idle 5.png" x="1625" y="710" width="483" height="696"/>
+	<SubTexture name="Left 1.png" x="1140" y="710" width="483" height="697"/>
+	<SubTexture name="Left 2.png" x="2591" y="0" width="469" height="697"/>
+	<SubTexture name="Right 1.png" x="0" y="0" width="623" height="695"/>
+	<SubTexture name="Right 2.png" x="0" y="697" width="583" height="699"/>
+	<SubTexture name="Up 1.png" x="585" y="697" width="553" height="733"/>
+	<SubTexture name="Up 2.png" x="1140" y="0" width="550" height="708"/>
+</TextureAtlas>
